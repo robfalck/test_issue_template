@@ -9,8 +9,6 @@ body:
     attributes:
       label: Description
       description: Please explain what is happening and how it differs from the expected behavior.
-      placeholder: ''
-      value: ''
     validations:
       required: true
   - type: textarea
