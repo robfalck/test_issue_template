@@ -24,6 +24,6 @@ body:
     attributes:
       label: Associated POEM Number
       description: What version of OpenMDAO is being used.
-      placeholder: 001
+      placeholder: "001"
     validations:
       required: false
