@@ -1,5 +1,6 @@
-name: Feature/Change request
-description: Request a new capability or change in behavior in OpenMDAO
+name: Feature or change request
+description: Request a new capability or change in behavior in OpenMDAO.
+labels: ["bug"]
 assignees:
   - robfalck
 body:
