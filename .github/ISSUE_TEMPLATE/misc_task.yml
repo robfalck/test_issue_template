@@ -1,4 +1,4 @@
-name: Miscellaneous Tasks
+name: Other Issues and Tasks
 description: An issue pertaining to OpenMDAO-related items like documentation, the website, github actions, etc.
 assignees:
   - robfalck
