@@ -10,3 +10,12 @@ body:
       description: Please explain what is happening and how it differs from the expected behavior.
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        OpenMDAO uses a system for enhancement proposals (POEMs) to give developers and the community a way to discuss potential changes to the code:
+        - New features
+        - API Changes
+        
+        If you're requesting a significant change, we invite you to submit a new enhancement proposal at the [https://github.com/OpenMDAO/POEMs](POEMs repository).
+        If this issue is associated with an existing POEM, such as a reference implementation, please provide the POEM number below.
