@@ -12,6 +12,7 @@ body:
       required: true
   - type: markdown
     attributes:
+      label: Proposals for Enhancement of OpenMDAO (POEMs)
       value: |
         OpenMDAO uses a system for enhancement proposals (POEMs) to give developers and the community a way to discuss potential changes to the code:
         - New features
