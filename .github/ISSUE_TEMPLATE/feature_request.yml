@@ -19,3 +19,11 @@ body:
         
         If you're requesting a significant change, we invite you to submit a new enhancement proposal at the [https://github.com/OpenMDAO/POEMs](POEMs repository).
         If this issue is associated with an existing POEM, such as a reference implementation, please provide the POEM number below.
+  - type: input
+    id: poem-number
+    attributes:
+      label: Associated POEM Number
+      description: What version of OpenMDAO is being used.
+      placeholder: 001
+    validations:
+      required: false
